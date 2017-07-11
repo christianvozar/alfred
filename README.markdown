@@ -1,4 +1,4 @@
-# alfred
+# Alfred E. Newman & Logo
 
 Alfred E. Newman &amp; MAD Logo from Code in Mad Magazine Issue in QBASIC
 
